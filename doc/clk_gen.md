@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![](E:\IC_design\Verilog\FPGA_S6\freq_meter\doc\clk_gen_module.png)
+![clk_gen_module](https://github.com/KaihaoYuHW/Verilog_a_simple_Frequency_counter/blob/main/doc/clk_gen_module.png)
 
 ## signals
 
