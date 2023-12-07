@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![](E:\IC_design\Verilog\FPGA_S6\freq_meter\doc\freq_meter_calc_module.png)
+![freq_meter_calc_module](https://github.com/KaihaoYuHW/Verilog_a_simple_Frequency_counter/blob/main/doc/freq_meter_calc_module.png)
 
 ## signals
 
@@ -35,7 +35,7 @@
 	defparam uut.freq_meter_calc_inst.CNT_RISE_MAX = 40;	// cnt_gate_s: 0~40=0.25s
 ```
 
-![](E:\IC_design\Verilog\FPGA_S6\freq_meter\doc\freq_meter_calc_waveform1.png)
+![freq_meter_calc_waveform1](https://github.com/KaihaoYuHW/Verilog_a_simple_Frequency_counter/blob/main/doc/freq_meter_calc_waveform1.png)
 
-![](E:\IC_design\Verilog\FPGA_S6\freq_meter\doc\freq_meter_calc_waveform2.png)
+![freq_meter_calc_waveform2](https://github.com/KaihaoYuHW/Verilog_a_simple_Frequency_counter/blob/main/doc/freq_meter_calc_waveform2.png)
 
