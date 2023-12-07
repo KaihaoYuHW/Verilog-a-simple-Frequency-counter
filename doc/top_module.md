@@ -2,4 +2,4 @@
 
 ## module diagram
 
-![](E:\IC_design\Verilog\FPGA_S6\freq_meter\doc\top_module.png)
+![top_module](https://github.com/KaihaoYuHW/Verilog_a_simple_Frequency_counter/blob/main/doc/top_module.png)
