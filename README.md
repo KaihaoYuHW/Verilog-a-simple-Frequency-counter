@@ -1,5 +1,13 @@
 # a simple Frequency counter with an equivalent precision measurement
 
+## project structure
+- "doc": the information for each module (see .md)
+
+- "rtl": the implementation of all modules (see .v)
+
+- "sim": all testbenches of each module
+
+***
 ## Principle
 
 Neither the frequency measurement nor the period measurement are exact multiples of the clock cycle within the measurement time t. It will create an error of ±1 clock cycle. Consequently, neither of them perform well at both high and low frequencies. 
